@@ -4,7 +4,6 @@
 node_modules
 .pnp
 .pnp.js
-/.vscode
 
 # testing
 coverage
@@ -34,4 +33,3 @@ yarn-error.log*
 /playwright/.cache/
 
 /.npm-only-allow
-.vscode/settings.json
